@@ -2,7 +2,7 @@
 
 Aqui neste aquivo README teremos informações relativas a nosso projeto.
 
-# Subtitulo de README
+## Subtitulo de README
 
 - Tópico 1: ti ti ti
 - Topico 2: bla bla bla
